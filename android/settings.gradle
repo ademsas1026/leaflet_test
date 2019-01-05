@@ -1,0 +1,3 @@
+rootProject.name = 'leaflet_test'
+
+include ':app'
